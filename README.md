@@ -60,8 +60,6 @@ Students will complete a series of projects that demonstrate the effective use o
 ```text
 .
 ├── Lectures/
-├── talks/
-├── Assignments/
 ├── Projects/
 ├── Resources/
 └── README.md
