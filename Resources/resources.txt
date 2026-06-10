@@ -1,0 +1,13 @@
+References
+
+Terragni, V., Vella, A., Roop, P., & Blincoe, K. (2025). The future of AI-driven software engineering. ACM Transactions on Software Engineering and Methodology, 34(5), Article 120. https://doi.org/10.1145/3715003
+
+Orosz, G. (2025, June 23). Learnings from two years of using AI tools for software engineering. The Pragmatic Engineer. https://newsletter.pragmaticengineer.com/p/two-years-of-using-ai
+
+Is AI really making software engineers 10x more productive? (2025, August 19). LinkedIn. https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7363819659109793793-6q6_
+
+Arkhan. (2025, May 23). How to stay relevant as a developer in the AI era. DEV Community. https://dev.to/arkhan/how-to-stay-relevant-as-a-developer-in-the-ai-era-3fi3
+
+E. R. (2026, February 17). What it means to be a developer in the AI era. DEV Community. https://dev.to/emiroberti/what-it-means-to-be-a-developer-in-the-ai-era-3dc2
+
+The impact of generative artificial intelligence on software... (2026). ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/S0378720626000066
